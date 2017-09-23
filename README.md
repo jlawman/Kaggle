@@ -1,2 +1,4 @@
 # Kaggle
-Code and submission files for various Kaggle competitions.
+Jupyter notebooks with exploration and analysis of various Kaggle competitions.
+
+Solutions submitted under account name jlawman (https://www.kaggle.com/jlawman)
